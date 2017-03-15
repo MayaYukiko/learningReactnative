@@ -1,0 +1,12 @@
+Q:nodejs的作者是谁？ 什么时候发布的？ nodejs和npm的关系是什么？
+A:node的作者是Ryan Dahl 2009年发布 npm是nodejs的包管理工具
+
+Q:UIExplorer中大量使用了一门叫做flow.js的技术，这是做什么用的？
+A:flow.js是facebook随rn推出的js静态类型检查器，旨在发现 JS 程序中的类型错误，以提高程序员的效率和代码质量。
+
+Q:UIExplorer进去后菜中中将知识分成了Component（组件）和Api（接口），这两部分的区别是什么？
+A:Component和API分别翻译为组件和接口，component偏向UI渲染，API偏向逻辑处理
+
+Q:RN开发，你最终选择了哪款编辑器来写javascript？你使用Javascript几年了？你的操作系统是？
+A:webstorm,很早就会（非技术工作）,windows
+
